@@ -1,0 +1,38 @@
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.deps.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.runtimeconfig.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.runtimeconfig.dev.json
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.dll
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.pdb
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.xml
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.csprojAssemblyReference.cache
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorAssemblyInfo.cache
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorAssemblyInfo.cs
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.AssemblyInfoInputs.cache
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.AssemblyInfo.cs
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorTargetAssemblyInfo.cache
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.dll
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.pdb
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.genruntimeconfig.cache
+C:\Users\PDA-Caio\Desktop\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.deps.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.runtimeconfig.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.runtimeconfig.dev.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\bin\Debug\netcoreapp2.2\TalkToApi.xml
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorAssemblyInfo.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorAssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.RazorTargetAssemblyInfo.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.genruntimeconfig.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\Seção 03\03_Final\TalkToApi\TalkToApi\obj\Debug\netcoreapp2.2\TalkToApi.csprojAssemblyReference.cache
